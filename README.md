@@ -5,11 +5,11 @@
 
 ## [How to use?]
  - Create RSA keys via Java program
-   <center><img src="https://user-images.githubusercontent.com/21208735/71897427-e8941e80-3199-11ea-9823-c97e187ef669.png" width="50%" height="50%"></center>
+   <br><center><img src="https://user-images.githubusercontent.com/21208735/71897427-e8941e80-3199-11ea-9823-c97e187ef669.png" width="50%" height="50%"></center><br>
  - OpenSSH Client, OpenSSH Server Installation for SFTP Implementation in Windows 10 Environments
-   <center><img src="https://user-images.githubusercontent.com/21208735/71897428-e8941e80-3199-11ea-8df9-3843d32ca3db.png" width="50%" height="50%"></center>
+   <br><center><img src="https://user-images.githubusercontent.com/21208735/71897428-e8941e80-3199-11ea-8df9-3843d32ca3db.png" width="50%" height="50%"></center><br>
  - SFTP Channel Connection Successfully After SSH Agent Connection-> Users can manage and transfer files. +RSA-based encryption is provided
- - <center><img src="https://user-images.githubusercontent.com/21208735/71897429-e8941e80-3199-11ea-9361-d45fbbadf046.png" width="50%" height="50%"></center>
+  <br><center><img src="https://user-images.githubusercontent.com/21208735/71897429-e8941e80-3199-11ea-9361-d45fbbadf046.png" width="50%" height="50%"></center><br>
 
 ### [Document]
 (https://blog.naver.com/tgmuseum/220887437794)
